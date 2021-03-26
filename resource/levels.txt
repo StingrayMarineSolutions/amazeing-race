@@ -1,0 +1,90 @@
+{"maze": "SquareMaze", "maze_args": {"size": [1024, 1024], "seed": 616636}}
+{"maze": "SquareMaze", "maze_args": {"size": [1024, 1024], "seed": 21866076}}
+{"maze": "SquareMaze", "maze_args": {"size": [1024, 1024], "seed": 23437395}}
+{"maze": "SquareMaze", "maze_args": {"size": [1024, 1024], "seed": 27675550}}
+{"maze": "SquareMaze", "maze_args": {"size": [1024, 1024], "seed": 2434107}}
+{"maze": "SquareMaze", "maze_args": {"size": [1024, 1024], "seed": 5194476}}
+{"maze": "SquareMaze", "maze_args": {"size": [1024, 1024], "seed": 27147399}}
+{"maze": "SquareMaze", "maze_args": {"size": [1024, 1024], "seed": 19980868}}
+{"maze": "SquareMaze", "maze_args": {"size": [1024, 1024], "seed": 8349724}}
+{"maze": "SquareMaze", "maze_args": {"size": [1024, 1024], "seed": 13284683}}
+{"maze": "SquareMaze", "maze_args": {"size": [1024, 1024], "seed": 21425046}}
+{"maze": "SquareMaze", "maze_args": {"size": [1024, 1024], "seed": 18125244}}
+{"maze": "SquareMaze", "maze_args": {"size": [1024, 1024], "seed": 2017212}}
+{"maze": "SquareMaze", "maze_args": {"size": [1024, 1024], "seed": 29283565}}
+{"maze": "SquareMaze", "maze_args": {"size": [1024, 1024], "seed": 29620782}}
+{"maze": "SquareMaze", "maze_args": {"size": [1024, 1024], "seed": 6964332}}
+{"maze": "SquareMaze", "maze_args": {"size": [1024, 1024], "seed": 18440031}}
+{"maze": "SquareMaze", "maze_args": {"size": [1024, 1024], "seed": 24929613}}
+{"maze": "SquareMaze", "maze_args": {"size": [1024, 1024], "seed": 12766175}}
+{"maze": "SquareMaze", "maze_args": {"size": [1024, 1024], "seed": 14030444}}
+{"maze": "SquareMaze", "maze_args": {"size": [1024, 1024], "seed": 20507587}}
+{"maze": "SquareMaze", "maze_args": {"size": [1024, 1024], "seed": 10472317}}
+{"maze": "SquareMaze", "maze_args": {"size": [1024, 1024], "seed": 11296553}}
+{"maze": "SquareMaze", "maze_args": {"size": [1024, 1024], "seed": 18460558}}
+{"maze": "SquareMaze", "maze_args": {"size": [1024, 1024], "seed": 16971426}}
+{"maze": "SquareMaze", "maze_args": {"size": [1024, 1024], "seed": 12293806}}
+{"maze": "SquareMaze", "maze_args": {"size": [1024, 1024], "seed": 26650272}}
+{"maze": "SquareMaze", "maze_args": {"size": [1024, 1024], "seed": 130205}}
+{"maze": "SquareMaze", "maze_args": {"size": [1024, 1024], "seed": 11357663}}
+{"maze": "SquareMaze", "maze_args": {"size": [1024, 1024], "seed": 5610866}}
+{"maze": "HexagonalMaze", "maze_args": {"size": [1024, 1024], "seed": 15995233, "num_cells": 10}}
+{"maze": "HexagonalMaze", "maze_args": {"size": [1024, 1024], "seed": 25581744, "num_cells": 10}}
+{"maze": "HexagonalMaze", "maze_args": {"size": [1024, 1024], "seed": 22231663, "num_cells": 10}}
+{"maze": "HexagonalMaze", "maze_args": {"size": [1024, 1024], "seed": 27049968, "num_cells": 10}}
+{"maze": "HexagonalMaze", "maze_args": {"size": [1024, 1024], "seed": 19906625, "num_cells": 10}}
+{"maze": "HexagonalMaze", "maze_args": {"size": [1024, 1024], "seed": 30861651, "num_cells": 10}}
+{"maze": "HexagonalMaze", "maze_args": {"size": [1024, 1024], "seed": 2253659, "num_cells": 10}}
+{"maze": "HexagonalMaze", "maze_args": {"size": [1024, 1024], "seed": 15770632, "num_cells": 10}}
+{"maze": "HexagonalMaze", "maze_args": {"size": [1024, 1024], "seed": 24672587, "num_cells": 10}}
+{"maze": "HexagonalMaze", "maze_args": {"size": [1024, 1024], "seed": 13903358, "num_cells": 10}}
+{"maze": "HexagonalMaze", "maze_args": {"size": [1024, 1024], "seed": 17325734, "num_cells": 10}}
+{"maze": "HexagonalMaze", "maze_args": {"size": [1024, 1024], "seed": 31524917, "num_cells": 10}}
+{"maze": "HexagonalMaze", "maze_args": {"size": [1024, 1024], "seed": 31996370, "num_cells": 10}}
+{"maze": "HexagonalMaze", "maze_args": {"size": [1024, 1024], "seed": 19908287, "num_cells": 10}}
+{"maze": "HexagonalMaze", "maze_args": {"size": [1024, 1024], "seed": 16050637, "num_cells": 10}}
+{"maze": "HexagonalMaze", "maze_args": {"size": [1024, 1024], "seed": 25912561, "num_cells": 10}}
+{"maze": "HexagonalMaze", "maze_args": {"size": [1024, 1024], "seed": 28866794, "num_cells": 10}}
+{"maze": "HexagonalMaze", "maze_args": {"size": [1024, 1024], "seed": 2769349, "num_cells": 10}}
+{"maze": "HexagonalMaze", "maze_args": {"size": [1024, 1024], "seed": 27678733, "num_cells": 10}}
+{"maze": "HexagonalMaze", "maze_args": {"size": [1024, 1024], "seed": 16963350, "num_cells": 10}}
+{"maze": "HexagonalMaze", "maze_args": {"size": [1024, 1024], "seed": 22829745, "num_cells": 10}}
+{"maze": "HexagonalMaze", "maze_args": {"size": [1024, 1024], "seed": 25959650, "num_cells": 10}}
+{"maze": "HexagonalMaze", "maze_args": {"size": [1024, 1024], "seed": 29582451, "num_cells": 10}}
+{"maze": "HexagonalMaze", "maze_args": {"size": [1024, 1024], "seed": 7370911, "num_cells": 10}}
+{"maze": "HexagonalMaze", "maze_args": {"size": [1024, 1024], "seed": 30460798, "num_cells": 10}}
+{"maze": "HexagonalMaze", "maze_args": {"size": [1024, 1024], "seed": 1694474, "num_cells": 10}}
+{"maze": "HexagonalMaze", "maze_args": {"size": [1024, 1024], "seed": 20607760, "num_cells": 10}}
+{"maze": "HexagonalMaze", "maze_args": {"size": [1024, 1024], "seed": 9631317, "num_cells": 10}}
+{"maze": "HexagonalMaze", "maze_args": {"size": [1024, 1024], "seed": 15171568, "num_cells": 10}}
+{"maze": "HexagonalMaze", "maze_args": {"size": [1024, 1024], "seed": 7060874, "num_cells": 10}}
+{"maze": "CircularMaze", "maze_args": {"size": [1024, 1024], "seed": 29881453, "num_levels": 7}}
+{"maze": "CircularMaze", "maze_args": {"size": [1024, 1024], "seed": 24519186, "num_levels": 7}}
+{"maze": "CircularMaze", "maze_args": {"size": [1024, 1024], "seed": 1842151, "num_levels": 7}}
+{"maze": "CircularMaze", "maze_args": {"size": [1024, 1024], "seed": 10155913, "num_levels": 7}}
+{"maze": "CircularMaze", "maze_args": {"size": [1024, 1024], "seed": 27580121, "num_levels": 7}}
+{"maze": "CircularMaze", "maze_args": {"size": [1024, 1024], "seed": 16320022, "num_levels": 7}}
+{"maze": "CircularMaze", "maze_args": {"size": [1024, 1024], "seed": 7732349, "num_levels": 7}}
+{"maze": "CircularMaze", "maze_args": {"size": [1024, 1024], "seed": 9111856, "num_levels": 7}}
+{"maze": "CircularMaze", "maze_args": {"size": [1024, 1024], "seed": 15034380, "num_levels": 7}}
+{"maze": "CircularMaze", "maze_args": {"size": [1024, 1024], "seed": 19770241, "num_levels": 7}}
+{"maze": "CircularMaze", "maze_args": {"size": [1024, 1024], "seed": 22203676, "num_levels": 7}}
+{"maze": "CircularMaze", "maze_args": {"size": [1024, 1024], "seed": 2768726, "num_levels": 7}}
+{"maze": "CircularMaze", "maze_args": {"size": [1024, 1024], "seed": 7105269, "num_levels": 7}}
+{"maze": "CircularMaze", "maze_args": {"size": [1024, 1024], "seed": 6890957, "num_levels": 7}}
+{"maze": "CircularMaze", "maze_args": {"size": [1024, 1024], "seed": 13869476, "num_levels": 7}}
+{"maze": "CircularMaze", "maze_args": {"size": [1024, 1024], "seed": 7968053, "num_levels": 7}}
+{"maze": "CircularMaze", "maze_args": {"size": [1024, 1024], "seed": 27413461, "num_levels": 7}}
+{"maze": "CircularMaze", "maze_args": {"size": [1024, 1024], "seed": 31642504, "num_levels": 7}}
+{"maze": "CircularMaze", "maze_args": {"size": [1024, 1024], "seed": 4398446, "num_levels": 7}}
+{"maze": "CircularMaze", "maze_args": {"size": [1024, 1024], "seed": 3661122, "num_levels": 7}}
+{"maze": "CircularMaze", "maze_args": {"size": [1024, 1024], "seed": 20526739, "num_levels": 7}}
+{"maze": "CircularMaze", "maze_args": {"size": [1024, 1024], "seed": 4931498, "num_levels": 7}}
+{"maze": "CircularMaze", "maze_args": {"size": [1024, 1024], "seed": 18022897, "num_levels": 7}}
+{"maze": "CircularMaze", "maze_args": {"size": [1024, 1024], "seed": 30032859, "num_levels": 7}}
+{"maze": "CircularMaze", "maze_args": {"size": [1024, 1024], "seed": 21929755, "num_levels": 7}}
+{"maze": "CircularMaze", "maze_args": {"size": [1024, 1024], "seed": 11963100, "num_levels": 7}}
+{"maze": "CircularMaze", "maze_args": {"size": [1024, 1024], "seed": 18929357, "num_levels": 7}}
+{"maze": "CircularMaze", "maze_args": {"size": [1024, 1024], "seed": 8327998, "num_levels": 7}}
+{"maze": "CircularMaze", "maze_args": {"size": [1024, 1024], "seed": 3781973, "num_levels": 7}}
+{"maze": "CircularMaze", "maze_args": {"size": [1024, 1024], "seed": 703352, "num_levels": 7}}
