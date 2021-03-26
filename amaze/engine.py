@@ -87,7 +87,7 @@ class Engine():
             if self.check_finished(self.pos, self.goal):
                 return None, None, 'YOU WON'
         view = None
-        if self.render_scene:
+        if self.render_scene or self.visualize:
             view = self.render(self.img, self.pos, self.goal)
         if self.visualize:
             self.show_scene(view)
