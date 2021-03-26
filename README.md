@@ -91,6 +91,7 @@ If you are to use machine learning tools we would prefer Pytorch, opencv and skl
 ## Additional info
 We might update this repository during the duration of the challenge to add additional info, fix bugs and make some improvements.
 If you fix a bug or have suggestion for improvement, feel free to upload a pull request and we will process it as soon as possible.
+You can send questions to challenge@stingray.no or post an issue.
 
 # Links
 
