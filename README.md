@@ -81,7 +81,7 @@ Although the evaluation server will not run your code directly, the algorithm im
 # How to participate
 To participate, fill out this [google form](https://docs.google.com/forms/d/e/1FAIpQLScDJE0AUK6yK4WmjU8Panlh2HpplQQhjSjzrv__VQ_EhP2dtw/viewform).
 If you wish to keep your github repo private, be sure to add us as collaborators (id: [hakonBG]).
-The challenge will last until 1/5 - 2021. 
+The challenge will last until 15/5 - 2021. 
 
 ## Preferred tools
 You can use whatever tools you like.
